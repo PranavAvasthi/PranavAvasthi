@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Pranav Avasthi</h1>
+<h1 align="center">Hello <img src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="60px" height="70px"> , I'm Pranav Avasthi <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"></h1> 
+
+<div align="center">
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
+</div>
+
 <h3 align="center">An enthusiastic frontend developer from India, driven by a desire to build innovative and engaging web interfaces.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavavasthi&label=Visitors%20Count&color=0e75b6&style=plastic" alt="pranavavasthi" /> </p>
@@ -17,7 +22,7 @@
 
 - ⚡ **When I'm not coding, you might find me exploring the latest advancements in frontend development since there's always something new to learn in this exciting field!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :speech_balloon:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranav-avasthi-077983228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-avasthi-077983228" height="30" width="40" /></a>
 <a href="https://instagram.com/pranav_40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav_40" height="30" width="40" /></a>
@@ -30,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavavasthi&show_icons=true&locale=en" alt="pranavavasthi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavavasthi&theme=default" alt="pranavavasthi" /></p>
+
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
