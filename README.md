@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working in **GeekyAnts as a Software Engineer - I**
 
-- 🌱 I’m currently learning **React.js, Next.js, React Native**
+- 🌱 I’m currently learning **React.js, Next.js, React Native, GenAI**
 
 - 👨‍💻 You can check out my portfolio at [https://pranavavasthi.github.io/PRANAV-AVASTHI/](https://pranavavasthi.github.io/PRANAV-AVASTHI/)
 
